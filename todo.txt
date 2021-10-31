@@ -1,0 +1,23 @@
+Brand
+ Create
+ Read
+ Update
+ Delete
+
+Model
+ Create
+ Read
+ Update
+ Delete
+
+Vehicle
+ Create
+ Read
+ Update
+ Delete
+
+Client
+ Create
+ Read
+ Update
+ Delete
